@@ -1,0 +1,38 @@
+_repo: BuddenbrooksVerfall-einer-Familie_34811
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 34811/34811-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Mann, Thomas
+    aliases:
+    - Mann, Paul Thomas
+    - Thomas, Paul
+    birthdate: 1875
+    deathdate: 1955
+    gutenberg_agent_id: '4200'
+    url: http://www.gutenberg.org/2009/agents/4200
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Mann
+description: ''
+gutenberg_bookshelf:
+- Best Books Ever Listings
+- DE Prosa
+gutenberg_issued: '2011-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34811'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Germany -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcc 'PT'
+- !lcsh 'Families -- Fiction'
+- GITenberg
+title: 'Buddenbrooks: Verfall einer Familie'
+url: http://www.gutenberg.org/ebooks/34811
